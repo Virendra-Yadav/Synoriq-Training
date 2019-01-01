@@ -2,6 +2,7 @@
 
 This project is mainly for enhance your skills in angular and node.
 Please read this page carefully and follow the instructions.
+[Angular](#angular)
 
 ## Angular
 
