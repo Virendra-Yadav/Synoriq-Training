@@ -3,6 +3,9 @@
 This project is mainly for enhance your skills in angular and node.
 Please read this page carefully and follow the instructions.
 
+[Angular](#angular)
+[TortoiseGit](#tortoise)
+
 ## Angular
 
 We use angular for front end development.
@@ -185,6 +188,23 @@ These are common things you need to maintain in your every angular project
 
 Please download this project and ask your mentor for your task.
 
-Happy learning, Thankyou
+## Tortoise
+- Download [GIT](https://git-scm.com/download/win)
+- Download tortoise git from [64 bit](https://download.tortoisegit.org/tgit/2.6.0.0/TortoiseGit-2.6.0.0-64bit.msi), [32 bit](https://download.tortoisegit.org/tgit/2.6.0.0/TortoiseGit-2.6.0.0-32bit.msi)
+- Create your account on [Gitlab](https://gitlab.com/)
+Install git on your system with already checked options.
+- Install tortoise git
+At the time of installation process when asked, enter your name and email id.
+After installation, close the setup.
+- Now search PuttyGen at windows, open it.
+- Click on generate button.
+- Do some random movement by your mouse at blank space, green process bar should be increased by the movement.
+- Now copy the random text generate
+After completion of the progress bar save the public and private key at some location.
+- Now go to any directory, right click here and click on git clone than on upper text field paste PROJECT_GIT_URL ask your mentor for this url.
+- Before clicking on OK you have to load the private putty key from where you saved it at the earlier step.
+- You have successfully cloned the project
 
-### Synoriq Team Welcomes You
+## Happy learning, Thankyou
+
+###### Synoriq Team Welcomes You
